@@ -102,7 +102,7 @@ The objective of this project is to convert raw government scheme data into an i
 
 ### Ranking Dashboard
 
-![Ranking Dashboard](images/ranking.PNG)
+![Ranking Dashboard](images/Ranking.PNG)
 
 ---
 
