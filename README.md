@@ -86,29 +86,23 @@ The objective of this project is to convert raw government scheme data into an i
 
 ---
 
-## Data Source
-
-https://www.myscheme.gov.in/
-
----
-
 ## Dashboard Preview
 
 ### National Dashboard
 
-![National Dashboard](images/national.png)
+![National Dashboard](images/national.PNG)
 
 ### State Dashboard
 
-![State Dashboard](images/state.png)
+![State Dashboard](images/state.PNG)
 
 ### Gender Dashboard
 
-![Gender Dashboard](images/gender.png)
+![Gender Dashboard](images/gender.PNG)
 
 ### Ranking Dashboard
 
-![Ranking Dashboard](images/ranking.png)
+![Ranking Dashboard](images/ranking.PNG)
 
 ---
 
